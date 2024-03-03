@@ -17,8 +17,9 @@ Inhaltsverzeichnis:
 
 Zur Ausführung benötigte Files: (*Können für die Begutachtung freigegeben werden* [Simon J. Heilmeier](mailto:567469@fom-net.de?subject=[GitHub]%20Daten-Freigabe))
 
-- aufgenommene Videos & erstellte CSV-Datein
-  - (*enthält private Fahrt-Daten, die nicht für die Veröffentlichung bestimmt sind*) 
+  - dnn_consumption.tflite
+    (enthält das KNN, welche in Zukunft weiter entwickelt wird und somit nicht für die Veröffentlichung bestimmt ist)
+
 
 
 
