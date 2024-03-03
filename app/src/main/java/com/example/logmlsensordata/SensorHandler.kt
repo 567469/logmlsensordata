@@ -39,7 +39,7 @@ class SensorHandler(context: Context) : SensorEventListener {
     }
 
     override fun onAccuracyChanged(sensor: Sensor, accuracy: Int) {
-        // Hier kann auf Änderungen der Genauigkeit reagiert werden
+        // ToDo
     }
 
     override fun onSensorChanged(event: SensorEvent) {
